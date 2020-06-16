@@ -1,2 +1,2 @@
-# bug_se
-Predicting bug fix time
+# Predicting bug fix time
+
