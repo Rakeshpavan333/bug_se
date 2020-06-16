@@ -15,7 +15,7 @@ to predict the bug fix time using the temporal activity sequence of the bug give
 ![Alt Text](bug.png)
 
 
-### HMM Based Approach 
+### The Pipeline 
 ![Alt Text](ext.png)
 
 - For using recurrent networks, stages 2 and 3 are changed, instead of 2 HMMs we make use of RNN/LSTM/GRU. 
