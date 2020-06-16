@@ -10,3 +10,14 @@ Large amount of time is spent by software developers in investigating bug report
 to predict the bug fix time using the temporal activity sequence of the bug given as input. We will make use of the Mozilla Firefox BugZilla database for this purpose. We present an a comparison techniques using RNN, LSTM, GRU and CuDNNGRU and demonstrate the superior performance of using recurrent networks over HMM-based approach used in the existing literature. 
 
 
+### Bug Activity Graph 
+
+![Alt Text](bug.png)
+
+
+### HMM Based Approach 
+![Alt Text](ext.png)
+
+- For using recurrent networks, in the last stage (inference and learning), instead of 2 HMMs we make use of RNN/LSTM/GRU. 
+
+
