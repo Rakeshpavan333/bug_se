@@ -20,4 +20,7 @@ to predict the bug fix time using the temporal activity sequence of the bug give
 
 - For using recurrent networks, in the last stage (inference and learning), instead of 2 HMMs we make use of RNN/LSTM/GRU. 
 
+### Final result
+![Alt Text](bar.png)
+
 
